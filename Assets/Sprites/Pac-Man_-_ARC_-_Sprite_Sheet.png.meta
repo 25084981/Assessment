@@ -1,0 +1,3640 @@
+fileFormatVersion: 2
+guid: 0c3f1737f17adbe42a6b821ccd97760c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_0
+  - first:
+      213: 21300002
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_1
+  - first:
+      213: 21300004
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_2
+  - first:
+      213: 21300006
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_3
+  - first:
+      213: 21300008
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_4
+  - first:
+      213: 21300010
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_5
+  - first:
+      213: 21300012
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_6
+  - first:
+      213: 21300014
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_7
+  - first:
+      213: 21300016
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_8
+  - first:
+      213: 21300018
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_9
+  - first:
+      213: 21300020
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_10
+  - first:
+      213: 21300022
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_11
+  - first:
+      213: 21300024
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_12
+  - first:
+      213: 21300026
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_13
+  - first:
+      213: 21300028
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_14
+  - first:
+      213: 21300030
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_15
+  - first:
+      213: 21300032
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_16
+  - first:
+      213: 21300034
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_17
+  - first:
+      213: 21300036
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_18
+  - first:
+      213: 21300038
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_19
+  - first:
+      213: 21300040
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_20
+  - first:
+      213: 21300042
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_21
+  - first:
+      213: 21300044
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_22
+  - first:
+      213: 21300046
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_23
+  - first:
+      213: 21300048
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_24
+  - first:
+      213: 21300050
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_25
+  - first:
+      213: 21300052
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_26
+  - first:
+      213: 21300054
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_27
+  - first:
+      213: 21300056
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_28
+  - first:
+      213: 21300058
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_29
+  - first:
+      213: 21300060
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_30
+  - first:
+      213: 21300062
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_31
+  - first:
+      213: 21300064
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_32
+  - first:
+      213: 21300066
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_33
+  - first:
+      213: 21300068
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_34
+  - first:
+      213: 21300070
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_35
+  - first:
+      213: 21300072
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_36
+  - first:
+      213: 21300074
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_37
+  - first:
+      213: 21300076
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_38
+  - first:
+      213: 21300078
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_39
+  - first:
+      213: 21300080
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_40
+  - first:
+      213: 21300082
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_41
+  - first:
+      213: 21300084
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_42
+  - first:
+      213: 21300086
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_43
+  - first:
+      213: 21300088
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_44
+  - first:
+      213: 21300090
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_45
+  - first:
+      213: 21300092
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_46
+  - first:
+      213: 21300094
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_47
+  - first:
+      213: 21300096
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_48
+  - first:
+      213: 21300098
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_49
+  - first:
+      213: 21300100
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_50
+  - first:
+      213: 21300102
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_51
+  - first:
+      213: 21300104
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_52
+  - first:
+      213: 21300106
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_53
+  - first:
+      213: 21300108
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_54
+  - first:
+      213: 21300110
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_55
+  - first:
+      213: 21300112
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_56
+  - first:
+      213: 21300114
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_57
+  - first:
+      213: 21300116
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_58
+  - first:
+      213: 21300118
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_59
+  - first:
+      213: 21300120
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_60
+  - first:
+      213: 21300122
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_61
+  - first:
+      213: 21300124
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_62
+  - first:
+      213: 21300126
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_63
+  - first:
+      213: 21300128
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_64
+  - first:
+      213: 21300130
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_65
+  - first:
+      213: 21300132
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_66
+  - first:
+      213: 21300134
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_67
+  - first:
+      213: 21300136
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_68
+  - first:
+      213: 21300138
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_69
+  - first:
+      213: 21300140
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_70
+  - first:
+      213: 21300142
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_71
+  - first:
+      213: 21300144
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_72
+  - first:
+      213: 21300146
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_73
+  - first:
+      213: 21300148
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_74
+  - first:
+      213: 21300150
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_75
+  - first:
+      213: 21300152
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_76
+  - first:
+      213: 21300154
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_77
+  - first:
+      213: 21300156
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_78
+  - first:
+      213: 21300158
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_79
+  - first:
+      213: 21300160
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_80
+  - first:
+      213: 21300162
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_81
+  - first:
+      213: 21300164
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_82
+  - first:
+      213: 21300166
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_83
+  - first:
+      213: 21300168
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_84
+  - first:
+      213: 21300170
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_85
+  - first:
+      213: 21300172
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_86
+  - first:
+      213: 21300174
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_87
+  - first:
+      213: 21300176
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_88
+  - first:
+      213: 21300178
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_89
+  - first:
+      213: 21300180
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_90
+  - first:
+      213: 21300182
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_91
+  - first:
+      213: 21300184
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_92
+  - first:
+      213: 21300186
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_93
+  - first:
+      213: 21300188
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_94
+  - first:
+      213: 21300190
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_95
+  - first:
+      213: 21300192
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_96
+  - first:
+      213: 21300194
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_97
+  - first:
+      213: 21300196
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_98
+  - first:
+      213: 21300198
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_99
+  - first:
+      213: 21300200
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_100
+  - first:
+      213: 21300202
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_101
+  - first:
+      213: 21300204
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_102
+  - first:
+      213: 21300206
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_103
+  - first:
+      213: 21300208
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_104
+  - first:
+      213: 21300210
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_105
+  - first:
+      213: 21300212
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_106
+  - first:
+      213: 21300214
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_107
+  - first:
+      213: 21300216
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_108
+  - first:
+      213: 21300218
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_109
+  - first:
+      213: 21300220
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_110
+  - first:
+      213: 21300222
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_111
+  - first:
+      213: 21300224
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_112
+  - first:
+      213: 21300226
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_113
+  - first:
+      213: 21300228
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_114
+  - first:
+      213: 21300230
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_115
+  - first:
+      213: 21300232
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_116
+  - first:
+      213: 21300234
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_117
+  - first:
+      213: 21300236
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_118
+  - first:
+      213: 21300238
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_119
+  - first:
+      213: 21300240
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_120
+  - first:
+      213: 21300242
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_121
+  - first:
+      213: 21300244
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_122
+  - first:
+      213: 21300246
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_123
+  - first:
+      213: 21300248
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_124
+  - first:
+      213: 21300250
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_125
+  - first:
+      213: 21300252
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_126
+  - first:
+      213: 21300254
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_127
+  - first:
+      213: 21300256
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_128
+  - first:
+      213: 21300258
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_129
+  - first:
+      213: 21300260
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_130
+  - first:
+      213: 21300262
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_131
+  - first:
+      213: 21300264
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_132
+  - first:
+      213: 21300266
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_133
+  - first:
+      213: 21300268
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_134
+  - first:
+      213: 21300270
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_135
+  - first:
+      213: 21300272
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_136
+  - first:
+      213: 21300274
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_137
+  - first:
+      213: 21300276
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_138
+  - first:
+      213: 21300278
+    second: Pac-Man_-_ARC_-_Sprite_Sheet_139
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b64c12b6cc01654fb5733ae46c79aa8
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed29a4b46700d2458ba7e587bc8a869
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdbe53c125e6b540a87e4688ee43f47
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219b836d0dee60f4d8ddc3e6646d872c
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14db26adf0701d24283e26759c01c66d
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5dcea869cc0a545ad5a83363c32076
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80872743ad367f4480795fe392f1c6a
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24beee4588649944fb2dfaef67c22f18
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db02bc8b09d48c946b87b0406e6eedfe
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029b3ff792f02ae46967fa863c7c2106
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c428ce1cca40d4c846ee446ab0aa22
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3860a3de7d28090459380693f28221c4
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d390250e8bb0cf4492b16d3c89d1abf
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b061d5edd0f1e02419b29e5c42ebe9c8
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af647f4b4199e93458e75a4e948c2192
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba50d22bad976943ae011892878c5f4
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b6d698bc511924ea16112912857739
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8e6014580117f4fb7967dc25321c61
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5d24fe9f87d9b48a648f32bafeefea
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eccfa6d6b21a74f859f16c2f2a5b39
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911a35156e9a7924fa371bd41c74d806
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ead4d0ea5e2bf4e8a8280182a67fa3
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c6adade82368943b8d58a3c7e549f0
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae23de6c4c234543ba50ff8f0bf776b
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b523f9a5808034344b1dc0ea6ab1289f
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc9c09b71128c4480922c57a9f6ff1
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fca4a626ef47344ad673599e40a68f
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18cb975a3a97d74b917a770a550f0ed
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38089990535bcf04cb69cc7157b19fe6
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a1feaf8d5ae304e98f6be24b6982d5
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2814b3d4d5feefd40be1c5a01b77802c
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e0efac3f304f744be407b9f8a66aae
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22354f73655713f45a43d126903a30dd
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136b4f702f0d97c4385bea46232e728e
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ae5152ebde796449b9087f8185c02e
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78de9c73c44b2c341bbf94db100d805b
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2331d92d22d1abc41b2dc7cb308580b7
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850f3fe9d9c7dfb4da03fe0cf866cd82
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a21c18791cc5334bac621202bdbf10b
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a296e9a8ded8704cb00351f3a79b724
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae65ec3efe89e0479a34bd6d68dc971
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12cfcd93b46b8e4fa986b5758bbe0cb
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d11354060f4e340b381d096bd5ccb2
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f96fde91df3a0478d92d2a2e5a5c8c
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b4a4b4a08e7ce43a432285977b1dc2
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbe8f3170dd52f458c95a61eda7b7f8
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7473f7dfdcd2e448fffd5810f3e6d8
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b847e9403af874ba0aeb3bac9dfc41
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17dfb5400ea68248989de2e4471631b
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f123a57059431745abcefa93e05b34c
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d47d8f78cba48a479741f2d71683854
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1a213fb5ee39a4a94977ade078d681
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b5a34cb21eb3c4c8e64257b8099540
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082275d5d19ade4448e9fd0548f0801a
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ae62f754242a845909f45a3c324eba
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13401ce32f5beb143926aaecb6a06c7c
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2803961b0f503d3419482c1afa8de43d
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05357dd85eb014c4380dd040031ce5ca
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a611cb619d060574d891a1e4b39c3fb7
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d9e48aa494f6f4e9cd4ddd854f5cf4
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e978ad5c27e50db4c999f18de239a7e9
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86e4710bbcfaa848b67980d53a12db3
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799106498509fbd4094c814b53102f8f
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13250cfc458f73b49a6f62893431e892
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0644285140a00d346aa6d059cda5a635
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630f532fb048949498e7e29dbf5497af
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa8d55138012234e953533b1b35a5c6
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9627eb7a2735c134a99d83d02b186fbc
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7665867057b4a4784bb2a393f337f7
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588c22581ff8b334ea9691e7f7f2eae7
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a691d335dc9f56f49b4c4a8d78a11124
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de9c9573d759ac4cab085a6fc629a2b
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f75a1df0ecb5d542970ca291895eaaf
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891d1493dfadda843a261b833df101a1
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8d53066c0d630448bb737d0f08ee31
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457a86098f4cef4d95406dfa796d5c0
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322d857f5762f4f459b3ad49f2e260bd
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608c7e3865ade1a4596eb524eab2d34f
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbce93f843b8ca84694ac3655b3f5a60
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f703960aba9b8254286d1b9a394454b7
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6df51efb79389499c9154fa0a49f5e
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91781ccdf5996794f800f4d828ce7c78
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6ecf8fbe4cfe0459967ed4a51737e7
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d8f68d0b078ae41943f32f41ddff6c
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02effe1ce9cb8c64f8e7276d0678818b
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5c9f0418d030e46b7824c93d724659
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fe7ef244a674f43b83fec110151912
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f54ccd4cbb95b4091d057e428b3dda
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3a693c9f2dea84b8029712063baaf8
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62def0eaac3d5634f9ab5056b294f955
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902cfea6a31c31f48b21f9b241c05dfd
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e752b912a1ac03e40a3a147715ad8964
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24fb66f3ee0898448ca6486daa6eacf
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c649b998477ba4a8504c786ddd5767
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa461996d59d464395977e9dd9961d6
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80368715f20085f4e9fd9d1d0a9b130a
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca574475b86bd504fb1c771ce10020b2
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abda34533ead074d9f645623d5132eb
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7372abb87ee64df4b8a650f37413d42b
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73096cf372e2a1442ba102961ff36aa0
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15287958ea632e54b9aa783bdafc20e7
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eacfe246d639d4bafc51843b1f34ea
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa0e4e84f35f244083c369440e88892
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f24c26c9fb41cc4db95276df9f4321a
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29f0a1d3d2e08a44a08a80139ad5b1d
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0ec3c2d3e71f745b305ccd45346dd2
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6edfe4912531234390cb4de2cd6bf35
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a515fddccf62da4692fa892fca1389b
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6090bd29add3f8246b7cf8481164d91a
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2011d4b46b354184b9767b2a91ac9e8f
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3075246531f044189c43ced6da5780
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a215cfcbfd139a47ac738e167ec2390
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75c90caa26532b4babc4911fb7febd6
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b829f77094594b04ca010687f811ba07
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326a23afa158e32478fbb48de3bf86f5
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f22a78e734bec74dbb47ef58129d827
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe138972e9f94634ba0e0e38b78a0fcd
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dffdbeec2becdd429c1fc81ff7ac19c
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ed4c0e137d42343b9a8bcfd1d9647b
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6f36f17d64291479d640a0408ce1ce
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492618565ddb45b4ca4304acb99d5c03
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a10c166fa06364280ac31483f509da
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856a2e5b9336689448d1a3f44d6856aa
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f143c2570260764da93a04483f9fc7c
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81efb1f6d61dba744aacd78af4ac1723
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c67818c88368194fafc7fe1ef3529e8
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f66cb3eca86dc46b3682b6353cae46
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b45bb1866f19c4ca48924ff3103524
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cf8d1ba8296fa4ea23ffc4245a0b2a
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34ee40decf84524cb73ea2427c400a8
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a027c269e5a96b34a8088b7aab19147d
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3a9fcb8b1ca7a43aa2a79cd566ff6b
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb35a3f6e6e66d40839fcfc5250cb04
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ec80aaaaf87574bafc15b769fdd1ff
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0ef076a7b06844da34dbd179bbac3e
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d09a622a0fb9284f811928f0687940a
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08543e4cbd381347886bc83bbbd1414
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573bd40b6d10da8428a5e502ae8a88ac
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733f0438c456246409532f659eb89f5a
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac-Man_-_ARC_-_Sprite_Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa96d9c9e34fa469fe1257eacbdbf4
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dccfbf49c57323141ba76919d3743fd2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pac-Man_-_ARC_-_Sprite_Sheet_0: 21300000
+      Pac-Man_-_ARC_-_Sprite_Sheet_1: 21300002
+      Pac-Man_-_ARC_-_Sprite_Sheet_10: 21300020
+      Pac-Man_-_ARC_-_Sprite_Sheet_100: 21300200
+      Pac-Man_-_ARC_-_Sprite_Sheet_101: 21300202
+      Pac-Man_-_ARC_-_Sprite_Sheet_102: 21300204
+      Pac-Man_-_ARC_-_Sprite_Sheet_103: 21300206
+      Pac-Man_-_ARC_-_Sprite_Sheet_104: 21300208
+      Pac-Man_-_ARC_-_Sprite_Sheet_105: 21300210
+      Pac-Man_-_ARC_-_Sprite_Sheet_106: 21300212
+      Pac-Man_-_ARC_-_Sprite_Sheet_107: 21300214
+      Pac-Man_-_ARC_-_Sprite_Sheet_108: 21300216
+      Pac-Man_-_ARC_-_Sprite_Sheet_109: 21300218
+      Pac-Man_-_ARC_-_Sprite_Sheet_11: 21300022
+      Pac-Man_-_ARC_-_Sprite_Sheet_110: 21300220
+      Pac-Man_-_ARC_-_Sprite_Sheet_111: 21300222
+      Pac-Man_-_ARC_-_Sprite_Sheet_112: 21300224
+      Pac-Man_-_ARC_-_Sprite_Sheet_113: 21300226
+      Pac-Man_-_ARC_-_Sprite_Sheet_114: 21300228
+      Pac-Man_-_ARC_-_Sprite_Sheet_115: 21300230
+      Pac-Man_-_ARC_-_Sprite_Sheet_116: 21300232
+      Pac-Man_-_ARC_-_Sprite_Sheet_117: 21300234
+      Pac-Man_-_ARC_-_Sprite_Sheet_118: 21300236
+      Pac-Man_-_ARC_-_Sprite_Sheet_119: 21300238
+      Pac-Man_-_ARC_-_Sprite_Sheet_12: 21300024
+      Pac-Man_-_ARC_-_Sprite_Sheet_120: 21300240
+      Pac-Man_-_ARC_-_Sprite_Sheet_121: 21300242
+      Pac-Man_-_ARC_-_Sprite_Sheet_122: 21300244
+      Pac-Man_-_ARC_-_Sprite_Sheet_123: 21300246
+      Pac-Man_-_ARC_-_Sprite_Sheet_124: 21300248
+      Pac-Man_-_ARC_-_Sprite_Sheet_125: 21300250
+      Pac-Man_-_ARC_-_Sprite_Sheet_126: 21300252
+      Pac-Man_-_ARC_-_Sprite_Sheet_127: 21300254
+      Pac-Man_-_ARC_-_Sprite_Sheet_128: 21300256
+      Pac-Man_-_ARC_-_Sprite_Sheet_129: 21300258
+      Pac-Man_-_ARC_-_Sprite_Sheet_13: 21300026
+      Pac-Man_-_ARC_-_Sprite_Sheet_130: 21300260
+      Pac-Man_-_ARC_-_Sprite_Sheet_131: 21300262
+      Pac-Man_-_ARC_-_Sprite_Sheet_132: 21300264
+      Pac-Man_-_ARC_-_Sprite_Sheet_133: 21300266
+      Pac-Man_-_ARC_-_Sprite_Sheet_134: 21300268
+      Pac-Man_-_ARC_-_Sprite_Sheet_135: 21300270
+      Pac-Man_-_ARC_-_Sprite_Sheet_136: 21300272
+      Pac-Man_-_ARC_-_Sprite_Sheet_137: 21300274
+      Pac-Man_-_ARC_-_Sprite_Sheet_138: 21300276
+      Pac-Man_-_ARC_-_Sprite_Sheet_139: 21300278
+      Pac-Man_-_ARC_-_Sprite_Sheet_14: 21300028
+      Pac-Man_-_ARC_-_Sprite_Sheet_15: 21300030
+      Pac-Man_-_ARC_-_Sprite_Sheet_16: 21300032
+      Pac-Man_-_ARC_-_Sprite_Sheet_17: 21300034
+      Pac-Man_-_ARC_-_Sprite_Sheet_18: 21300036
+      Pac-Man_-_ARC_-_Sprite_Sheet_19: 21300038
+      Pac-Man_-_ARC_-_Sprite_Sheet_2: 21300004
+      Pac-Man_-_ARC_-_Sprite_Sheet_20: 21300040
+      Pac-Man_-_ARC_-_Sprite_Sheet_21: 21300042
+      Pac-Man_-_ARC_-_Sprite_Sheet_22: 21300044
+      Pac-Man_-_ARC_-_Sprite_Sheet_23: 21300046
+      Pac-Man_-_ARC_-_Sprite_Sheet_24: 21300048
+      Pac-Man_-_ARC_-_Sprite_Sheet_25: 21300050
+      Pac-Man_-_ARC_-_Sprite_Sheet_26: 21300052
+      Pac-Man_-_ARC_-_Sprite_Sheet_27: 21300054
+      Pac-Man_-_ARC_-_Sprite_Sheet_28: 21300056
+      Pac-Man_-_ARC_-_Sprite_Sheet_29: 21300058
+      Pac-Man_-_ARC_-_Sprite_Sheet_3: 21300006
+      Pac-Man_-_ARC_-_Sprite_Sheet_30: 21300060
+      Pac-Man_-_ARC_-_Sprite_Sheet_31: 21300062
+      Pac-Man_-_ARC_-_Sprite_Sheet_32: 21300064
+      Pac-Man_-_ARC_-_Sprite_Sheet_33: 21300066
+      Pac-Man_-_ARC_-_Sprite_Sheet_34: 21300068
+      Pac-Man_-_ARC_-_Sprite_Sheet_35: 21300070
+      Pac-Man_-_ARC_-_Sprite_Sheet_36: 21300072
+      Pac-Man_-_ARC_-_Sprite_Sheet_37: 21300074
+      Pac-Man_-_ARC_-_Sprite_Sheet_38: 21300076
+      Pac-Man_-_ARC_-_Sprite_Sheet_39: 21300078
+      Pac-Man_-_ARC_-_Sprite_Sheet_4: 21300008
+      Pac-Man_-_ARC_-_Sprite_Sheet_40: 21300080
+      Pac-Man_-_ARC_-_Sprite_Sheet_41: 21300082
+      Pac-Man_-_ARC_-_Sprite_Sheet_42: 21300084
+      Pac-Man_-_ARC_-_Sprite_Sheet_43: 21300086
+      Pac-Man_-_ARC_-_Sprite_Sheet_44: 21300088
+      Pac-Man_-_ARC_-_Sprite_Sheet_45: 21300090
+      Pac-Man_-_ARC_-_Sprite_Sheet_46: 21300092
+      Pac-Man_-_ARC_-_Sprite_Sheet_47: 21300094
+      Pac-Man_-_ARC_-_Sprite_Sheet_48: 21300096
+      Pac-Man_-_ARC_-_Sprite_Sheet_49: 21300098
+      Pac-Man_-_ARC_-_Sprite_Sheet_5: 21300010
+      Pac-Man_-_ARC_-_Sprite_Sheet_50: 21300100
+      Pac-Man_-_ARC_-_Sprite_Sheet_51: 21300102
+      Pac-Man_-_ARC_-_Sprite_Sheet_52: 21300104
+      Pac-Man_-_ARC_-_Sprite_Sheet_53: 21300106
+      Pac-Man_-_ARC_-_Sprite_Sheet_54: 21300108
+      Pac-Man_-_ARC_-_Sprite_Sheet_55: 21300110
+      Pac-Man_-_ARC_-_Sprite_Sheet_56: 21300112
+      Pac-Man_-_ARC_-_Sprite_Sheet_57: 21300114
+      Pac-Man_-_ARC_-_Sprite_Sheet_58: 21300116
+      Pac-Man_-_ARC_-_Sprite_Sheet_59: 21300118
+      Pac-Man_-_ARC_-_Sprite_Sheet_6: 21300012
+      Pac-Man_-_ARC_-_Sprite_Sheet_60: 21300120
+      Pac-Man_-_ARC_-_Sprite_Sheet_61: 21300122
+      Pac-Man_-_ARC_-_Sprite_Sheet_62: 21300124
+      Pac-Man_-_ARC_-_Sprite_Sheet_63: 21300126
+      Pac-Man_-_ARC_-_Sprite_Sheet_64: 21300128
+      Pac-Man_-_ARC_-_Sprite_Sheet_65: 21300130
+      Pac-Man_-_ARC_-_Sprite_Sheet_66: 21300132
+      Pac-Man_-_ARC_-_Sprite_Sheet_67: 21300134
+      Pac-Man_-_ARC_-_Sprite_Sheet_68: 21300136
+      Pac-Man_-_ARC_-_Sprite_Sheet_69: 21300138
+      Pac-Man_-_ARC_-_Sprite_Sheet_7: 21300014
+      Pac-Man_-_ARC_-_Sprite_Sheet_70: 21300140
+      Pac-Man_-_ARC_-_Sprite_Sheet_71: 21300142
+      Pac-Man_-_ARC_-_Sprite_Sheet_72: 21300144
+      Pac-Man_-_ARC_-_Sprite_Sheet_73: 21300146
+      Pac-Man_-_ARC_-_Sprite_Sheet_74: 21300148
+      Pac-Man_-_ARC_-_Sprite_Sheet_75: 21300150
+      Pac-Man_-_ARC_-_Sprite_Sheet_76: 21300152
+      Pac-Man_-_ARC_-_Sprite_Sheet_77: 21300154
+      Pac-Man_-_ARC_-_Sprite_Sheet_78: 21300156
+      Pac-Man_-_ARC_-_Sprite_Sheet_79: 21300158
+      Pac-Man_-_ARC_-_Sprite_Sheet_8: 21300016
+      Pac-Man_-_ARC_-_Sprite_Sheet_80: 21300160
+      Pac-Man_-_ARC_-_Sprite_Sheet_81: 21300162
+      Pac-Man_-_ARC_-_Sprite_Sheet_82: 21300164
+      Pac-Man_-_ARC_-_Sprite_Sheet_83: 21300166
+      Pac-Man_-_ARC_-_Sprite_Sheet_84: 21300168
+      Pac-Man_-_ARC_-_Sprite_Sheet_85: 21300170
+      Pac-Man_-_ARC_-_Sprite_Sheet_86: 21300172
+      Pac-Man_-_ARC_-_Sprite_Sheet_87: 21300174
+      Pac-Man_-_ARC_-_Sprite_Sheet_88: 21300176
+      Pac-Man_-_ARC_-_Sprite_Sheet_89: 21300178
+      Pac-Man_-_ARC_-_Sprite_Sheet_9: 21300018
+      Pac-Man_-_ARC_-_Sprite_Sheet_90: 21300180
+      Pac-Man_-_ARC_-_Sprite_Sheet_91: 21300182
+      Pac-Man_-_ARC_-_Sprite_Sheet_92: 21300184
+      Pac-Man_-_ARC_-_Sprite_Sheet_93: 21300186
+      Pac-Man_-_ARC_-_Sprite_Sheet_94: 21300188
+      Pac-Man_-_ARC_-_Sprite_Sheet_95: 21300190
+      Pac-Man_-_ARC_-_Sprite_Sheet_96: 21300192
+      Pac-Man_-_ARC_-_Sprite_Sheet_97: 21300194
+      Pac-Man_-_ARC_-_Sprite_Sheet_98: 21300196
+      Pac-Man_-_ARC_-_Sprite_Sheet_99: 21300198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
